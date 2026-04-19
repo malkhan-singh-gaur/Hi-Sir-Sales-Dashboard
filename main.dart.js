@@ -44359,7 +44359,7 @@ A.cr(r,$.eN(),!0)
 return A.a5B(new A.dJ(r)).fX()},
 $S:0}
 A.a2u.prototype={
-$0(){A.tt(new A.mA("https://play.google.com/store/apps/details?id=com.digital_era.english_learning&&referrer="+this.a.e)).bz(new A.a2s(this.b),t.P)},
+$0(){A.tt(new A.mA("https://play.google.com/store/apps/details?id=com.digital_era.english_learning&referrer="+this.a.e)).bz(new A.a2s(this.b),t.P)},
 $S:0}
 A.a2s.prototype={
 $1(a){var s=null
